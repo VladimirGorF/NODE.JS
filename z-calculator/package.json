@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node ./main.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VladimirGorF/NODE.JS/tree/main/z-calculator"
+  },
   "author": "Vladimir Gorbunov",
   "license": "ISC"
 }
