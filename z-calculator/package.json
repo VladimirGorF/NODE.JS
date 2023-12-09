@@ -1,0 +1,11 @@
+{
+  "name": "z-calculator",
+  "version": "1.0.0",
+  "description": "Calculate by your own precision of numbers.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "author": "Vladimir Gorbunov",
+  "license": "ISC"
+}
