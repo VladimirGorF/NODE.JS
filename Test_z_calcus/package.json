@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "go": "node ./main.js"
+  },
+  "dependencies": {
+    "gor-calculator": "^1.0.0"
+  }
+
+}
