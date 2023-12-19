@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Vikusik",
+    "secondName": "Kolina",
+    "city": "Smolensk",
+    "age": 47
+  },
+  {
+    "id": 2,
+    "name": "VikiLimk",
+    "secondName": "Sobolev",
+    "city": "Saransk",
+    "age": 93
+  },
+  {
+    "id": 4,
+    "name": "VikiLimk",
+    "secondName": "Sobolev",
+    "city": "Saransk",
+    "age": 93
+  }
+]
